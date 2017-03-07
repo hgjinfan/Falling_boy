@@ -1,0 +1,5 @@
+.button{ background:url("button.png") top left no-repeat; }
+.button_r2_c2{ width:164px; height:84px; background-position:-10px -10px; }
+.button_r2_c4{ width:164px; height:84px; background-position:-10px -104px; }
+.button_r2_c6{ width:164px; height:84px; background-position:-10px -198px; }
+

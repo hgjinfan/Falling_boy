@@ -1,0 +1,10 @@
+{
+	"box" 	 : "./images/box.png",
+	"floor1" : "./images/floor1.png",
+	"floor2" : "./images/floor2.png",
+	"floor3" : "./images/floor3.png",
+	"floor4" : "./images/floor4.png",
+	"run"	 : "./images/run.png",
+	"bg5"    : "./images/bg5.png",
+	"fall"   : "./images/fall.png"
+}

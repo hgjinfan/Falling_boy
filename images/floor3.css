@@ -1,0 +1,4 @@
+.floor3{ background:url("floor3.png") top left no-repeat; }
+.floor3_r1_c1{ width:100px; height:20px; background-position:-10px -10px; }
+.floor3_r1_c2{ width:100px; height:20px; background-position:-10px -40px; }
+

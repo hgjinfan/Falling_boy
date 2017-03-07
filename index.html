@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Falling boy</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		#canvas{
+			border: 1px solid black;
+		}
+	</style>
+</head>
+<body>
+	<canvas id="canvas" width="320" height="482"></canvas>
+	<script src="./js/underscore-min.js"></script>
+	<script src="./js/Manager.js"></script>
+	<script src="./js/Scene.js"></script>
+	<script src="./js/Score.js"></script>
+	<script src="./js/Floor.js"></script>
+	<script src="./js/Gamer.js"></script>
+	<script>
+		var game = new Manager("./JSON/resource.txt");
+	</script>
+</body>
+</html>
